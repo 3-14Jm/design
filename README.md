@@ -11,6 +11,6 @@
 ## Should to add:
 _Shoplist Page and inherit page_.
 
-__Should to add text/info for all Page__.
+__Text/info for all Page__.
 
-__Should to stylize all Page__.
+__Stylization for all Page__.
