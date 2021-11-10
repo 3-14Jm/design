@@ -3,10 +3,10 @@
 - 10.11.2021 -
 
 *Added: 
-_Home Page_,
-_Catalog Page_,
-_Item Page_,
-_Sign Up/Sign In Page_.
+1._Home Page_,
+2._Catalog Page_,
+3._Item Page_,
+4._Sign Up/Sign In Page_.
 
 *Should to add:
 _Shoplist Page and inherit page_.
