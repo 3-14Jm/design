@@ -9,8 +9,6 @@
 4. _Sign Up/Sign In Page_.
 
 ## Should to add:
-_Shoplist Page and inherit page_.
-
-__Text/info for all Page__.
-
-__Stylization for all Page__.
+1. _Shoplist Page and inherit page_,
+2. _Text/info for all Page_,
+3. _Stylization for all Page_.
