@@ -2,15 +2,15 @@
 
 - 10.11.2021 -
 
-Added: 
-Home Page,
-Catalog Page,
-Item Page,
-Sign Up/Sign In Page.
+*Added: 
+_Home Page_,
+_Catalog Page_,
+_Item Page_,
+_Sign Up/Sign In Page_.
 
-Should to add:
-Shoplist Page and inherit pag.
+*Should to add:
+_Shoplist Page and inherit page_.
 
-Should to add text/info for all Page.
+__Should to add text/info for all Page__.
 
-Should to stylize all Page.
+__Should to stylize all Page__.
